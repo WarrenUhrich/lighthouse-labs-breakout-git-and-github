@@ -1,5 +1,7 @@
 # Lighthouse Labs | Git and GitHub for Teams
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-git-and-github-breakout/tree/2023.10.11-web-flex-all-12june2023) | [Vimeo Video Recording](https://vimeo.com/873565071/453756c6f0?share=copy)
+
 * [X] Review GitHub Basics
 * [X] Review Git Basics
 * [X] Branching in a Repository
