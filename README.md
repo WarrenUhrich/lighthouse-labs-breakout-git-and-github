@@ -1,1 +1,1 @@
-# lighthouse-labs-breakout-git-and-github
+# Lighthouse Labs | Git and GitHub Breakout
